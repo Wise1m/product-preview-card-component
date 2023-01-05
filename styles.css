@@ -41,12 +41,16 @@ body{
     display: block;
     width: 100%;
     height: 100%;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
 }
 
 #description{
     width: 50%;
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
 }
 
 #first{
