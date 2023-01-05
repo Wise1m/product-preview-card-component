@@ -26,6 +26,6 @@ I learnt how to use flexbox better
 
 ## Author
 
-- Website - [github](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [github](https://github.com/Wise1m/product-preview-card-component)
+- Frontend Mentor - [@Wise1m](https://www.frontendmentor.io/profile/Wise1m)
+- Twitter - [@Wiseman89950134](https://www.twitter.com/Wiseman89950134)
