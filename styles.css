@@ -95,6 +95,10 @@ body{
     background-color: hsl(158, 36%, 37%);
 }
 
+#button:active{
+    background-color: hsl(157, 30%, 29%);
+}
+
 #icon-cart, #button-text{
     color: hsl(0, 0%, 100%);
 }
